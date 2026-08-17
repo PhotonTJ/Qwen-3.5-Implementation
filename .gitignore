@@ -1,0 +1,17 @@
+# checkpoints
+*.pt
+*.pth
+
+# tokenized data cache
+cache/
+*.pkl
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# os
+.DS_Store
